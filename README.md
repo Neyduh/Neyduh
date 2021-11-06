@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Dev and Programming
 - 🌱 I’m currently learning Front End Dev with Side Hustle Internship
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Contact me @neyduh_official on IG, Snapchat, Twitter.
 
 <!---
 Neyduh/Neyduh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
